@@ -1,1 +1,1 @@
-# Arrays-and-Functions-in-JS
+This file contains some function and array methods in JS.
